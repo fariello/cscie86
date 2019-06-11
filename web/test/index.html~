@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+  <link href="css/main.css" rel="stylesheet" type="text/css"/>
+  <script src="js/jquery-3.4.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML" async></script>
+  <!-- <script src="js/MathJax-2.7.5.js"></script> -->
+  <script src="js/common.js"></script>
+<title class="tc">Linear Algebra</title>
+</head>
+<body class="tc">
+  <div class="tc_paper" id="tc_paper">
+	<!-- This is where the main stuff goes -->
+	<h1>Welcome to Radpid STEM<</h1>
+  </div>
+</body>
+</html>
